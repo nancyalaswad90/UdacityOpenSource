@@ -1,7 +1,7 @@
 
 
 
-# A Flower Classification Project.
+# Flower classification tutorial project.
 
 In this project I used a deep learning model, the VGG16, to classify flower images.
 
